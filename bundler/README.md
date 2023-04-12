@@ -2,6 +2,8 @@
 
 Ruby (bundler) support for [`dependabot-core`][core-repo].
 
+Test change.
+
 ### Running locally
 
 1. Install native helpers
